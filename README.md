@@ -1,0 +1,25 @@
+# Problems on some good classic and non trivial topics (useful for EXPERT---->CM TRANSITION)
+
+- ## Tries
+- ## Segment Trees
+- ## DP (Tree/bit/digit/some non trivial optimizations)
+- ## Binary Lifting
+- ## DSU
+- ## Sparse Tables(1D and 2D)
+- ## Square Root Decomposition
+- ## Centroid Decomposition
+- ## Dynamic Connectivity
+- ## HLD( sack like ds)
+- ## Maths
+  - ### Convolution
+  - ### Polynomials
+  - ### Probability and EV
+  - ### Matrix Related
+  - ### Linaer recurrence
+  - ### Algebra an some maths formulas
+  - ### optimizations (mathematical)
+- ## Number Theory (Modular Euclidean Mobius  Linear Diophantine GCD Prime related)
+- ## Graph Theory( Cycles connected Bridges Articulation MST Strongly Connected)
+- ## String Theory (KMP/Z/HASHING/MANACHER/AHO CROSIAC/SUFFIX TREES/ETC)
+- ## Game Theory (NIM RELATED / GRAPH GAMES /ETC)
+- ## Geometry
