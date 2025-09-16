@@ -1,2 +1,5 @@
 ## [Ada and Indexing](https://www.spoj.com/problems/ADAINDEX/)
 #### classic Trie question where given strings and q string queries need to find how many strings start with prefx of query string  (insert and pref and for each node maintain startswith)
+
+## [Try to Complete](https://www.spoj.com/problems/TRYCOMP/)
+#### Same as above question but for given prefx need to find word that has more frequency and starts with it and lexographically small if freq match
