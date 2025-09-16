@@ -3,3 +3,6 @@
 
 ## [Try to Complete](https://www.spoj.com/problems/TRYCOMP/)
 #### Same as above question but for given prefx need to find word that has more frequency and starts with it and lexographically small if freq match (Maintain a global map and while insertion itself find answer for every prefix)
+
+## [E. Karuta](https://atcoder.jp/contests/abc287/tasks/abc287_e)
+#### classic #startsWith Trie with Binary search Logic
