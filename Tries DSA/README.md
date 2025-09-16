@@ -6,3 +6,6 @@
 
 ## [E. Karuta](https://atcoder.jp/contests/abc287/tasks/abc287_e)
 #### classic #startsWith Trie with Binary search Logic
+
+## [Shortest Names](https://vjudge.net/problem/UVA-12506)
+#### classic #startsWith Trie with Binary search Logic
