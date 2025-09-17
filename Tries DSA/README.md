@@ -19,3 +19,6 @@
 ## [D. Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D)
 #### Classic Bit Trie ( For each node store lvl (2 pow bit position), startsWith. (Dont forget 0 in multiset case)..
 
+## [Hyper Prefix Sets](https://vjudge.net/problem/UVA-11488)
+#### classic Trie on the gO answer model (while inserting a string itself take the best answer you get by ending at that string)
+
