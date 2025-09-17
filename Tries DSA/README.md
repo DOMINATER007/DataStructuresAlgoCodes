@@ -22,3 +22,6 @@
 ## [Hyper Prefix Sets](https://vjudge.net/problem/UVA-11488)
 #### classic Trie on the gO answer model (while inserting a string itself take the best answer you get by ending at that string)
 
+## [Set Xor-Min](https://judge.yosupo.jp/problem/set_xor_min)
+#### classic Bit Trie with xor min and set...(For yousup OJ dont forget to comment //ONLINE JUDGE line)
+
