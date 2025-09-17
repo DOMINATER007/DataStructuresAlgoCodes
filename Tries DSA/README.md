@@ -9,3 +9,10 @@
 
 ## [Shortest Names](https://vjudge.net/problem/UVA-12506)
 #### classic #startsWith Trie with Binary search Logic
+
+## [Query on Strings](https://www.codechef.com/problems/NPLFLF)
+#### Additiona and removal of tries and to support suffix we are reversing strings and inserting them and to know whether there exists a group k strings with length l -----> Maintain a multiset for each length. So for each prefix (i.e Trie Node) upate the multiset by adding starts and deleting previous starts if it exists . After removal of string make it empty "" ----> or else it costs  a WA even though your logic is correct because u already removed it (Painfull debugging...) (A simple file closing or socket closing analogy)
+
+## [Order of digits](https://toph.co/p/priority-of-digits)
+#### classic #startsWith trie BUT DIGITS AND HERE WE WANT (#LEXOGRAPHICALLY SMALLER FROM GIVEN NUMBER X)  ---> LEXOGRAPHY CHECKING WITH TRIE (power of digits also changes like digit 1 is eq to 9), etc
+
