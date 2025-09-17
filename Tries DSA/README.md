@@ -16,3 +16,6 @@
 ## [Order of digits](https://toph.co/p/priority-of-digits)
 #### classic #startsWith trie BUT DIGITS AND HERE WE WANT (#LEXOGRAPHICALLY SMALLER FROM GIVEN NUMBER X)  ---> LEXOGRAPHY CHECKING WITH TRIE (power of digits also changes like digit 1 is eq to 9), etc
 
+## [D. Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D)
+#### Classic Bit Trie ( For each node store lvl (2 pow bit position), startsWith. (Dont forget 0 in multiset case)..
+
