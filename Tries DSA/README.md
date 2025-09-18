@@ -25,3 +25,6 @@
 ## [Set Xor-Min](https://judge.yosupo.jp/problem/set_xor_min)
 #### classic Bit Trie with xor min and set...(For yousup OJ dont forget to comment //ONLINE JUDGE line)
 
+## [Sub Xor](https://www.spoj.com/problems/SUBXOR/)
+#### Good Trie application (Main technique query(x,k) ---> No of elements in trie if you xor with x you get xor result<k ----> Boil down to BIt manip)
+
