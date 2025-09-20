@@ -28,3 +28,15 @@
 ## [Sub Xor](https://www.spoj.com/problems/SUBXOR/)
 #### Good Trie application (Main technique query(x,k) ---> No of elements in trie if you xor with x you get xor result<k ----> Boil down to BIt manip)
 
+## [Beautiful Subaarys](https://codeforces.com/problemset/problem/665/E)
+#### Good Trie application (Main technique query(x,k) ---> No of elements in trie if you xor with x you get xor result>=k ----> Boil down to BIt manip)
+
+## [Xor](https://oj.uz/problem/view/IZhO12_xor)
+#### Greedy bit trie same as above but need to print max range which satisfy given xor condition. Better way to do this store minimum index for each bit and then while querying for this element find the best minimum prefix range(l) 
+
+## [Sausage Maximization](https://codeforces.com/problemset/problem/282/E)
+#### Playing with prefix and Tries and xor ---> find Max( (left part xor)^(right part xor)) these parts are non intersecting and can be empty(xor 0)
+
+## [Choosing Commander](https://codeforces.com/contest/817/problem/E)
+#### classic greedy query Trie model (same to SubXor / Beautiful Subarrays)
+
